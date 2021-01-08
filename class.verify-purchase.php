@@ -3,7 +3,7 @@ class EnvatoApi2 {
     // Bearer, no need for OAUTH token, change this to your bearer string
     // https://build.envato.com/api/#token
     
-    private static $bearer = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // replace the API key here.
+    private static $bearer = "cY1By1zoKcttvqv5gWkxEKVzFLsS8rrR"; // replace the API key here.
     
     static function getPurchaseData( $code ) {
       
